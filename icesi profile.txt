@@ -1,0 +1,3 @@
+Nombre: Kami
+Apellido: Takegami
+Fecha de nacimiento: 2003 05 12
