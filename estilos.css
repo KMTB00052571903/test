@@ -1,0 +1,27 @@
+body {background-color: aqua;}
+
+h2 {
+
+    color: #15eb0e;
+    font-family: 'Times New Roman', Times, serif;
+    width: auto;
+}
+
+.subtitulo {
+
+    color: deeppink;
+    background-color: black;
+    padding: 16px;
+
+}
+
+#unico {
+
+
+    color: antiquewhite;
+    background-color: blueviolet;
+    margin: 16px;
+}
+
+h3 {color: darkkhaki;}
+
