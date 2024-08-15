@@ -1,0 +1,60 @@
+.red {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin: 4px;
+
+}
+
+.red-big {
+    background-color: red;
+    width: 150px;
+    height: 150;
+    margin: 4px;
+}
+
+
+.container{
+    background-color: beige;
+    width: 500px;
+    height: 600px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+.body{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.black{ 
+    background-color: black;
+    width: 40px;
+    height: 40px;
+
+}
+
+nav{
+    background-color: azure;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+
+}
+
+.floating-button {
+    background-color: black;
+    width: 40px;
+    height: 40px;
+
+
+}
